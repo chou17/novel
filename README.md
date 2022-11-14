@@ -1,4 +1,4 @@
-AI novel generator (write the next plot for your novel)
+AI Chinese novel generator (write the next plot for your novel)
 
 
 Environment:
