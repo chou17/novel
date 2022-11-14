@@ -3,6 +3,7 @@ AI Chinese novel generator (write the next plot for your novel)
 
 Environment:
 
+    Windows
     Python3.10.4
     pip install -r requirements.txt
     
